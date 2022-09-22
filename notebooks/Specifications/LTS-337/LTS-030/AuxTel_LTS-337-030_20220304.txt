@@ -1,3 +1,0 @@
-Long Rotation - 180 deg test with 1 iteration on Fri Mar  4 19:43:05 2022 
-Start Time, End Time, Rotation angle (degrees), Rotational speed (degrees/sec) 
-['2022-03-04T19:39:00.189', '2022-03-04T19:41:03.422', 180.03, 126221.29]
