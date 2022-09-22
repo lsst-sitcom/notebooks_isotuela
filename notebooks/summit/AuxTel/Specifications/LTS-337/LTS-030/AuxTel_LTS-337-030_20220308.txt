@@ -1,0 +1,26 @@
+
+Long Rotation - 180 deg test on Tue Mar  8 16:10:33 2022 
+Start Time, End Time, Rotation angle (degrees), Rotational speed (degrees/sec) 
+2022-03-08T16:09:11.345, 2022-03-08T16:10:25.349,179.99,2.43
+
+Medium Rotation - 50 deg test on Tue Mar  8 16:13:08 2022 
+Start Time, End Time, Rotation angle (degrees), Rotational speed (degrees/sec) 
+2022-03-08T16:12:05.097, 2022-03-08T16:12:40.511,50.51,1.43
+
+Short Rotation - 25 deg test on Tue Mar  8 16:15:23 2022 
+Start Time, End Time, Rotation angle (degrees), Rotational speed (degrees/sec) 
+2022-03-08T16:14:26.344, 2022-03-08T16:14:45.816,26.6,1.37
+Long Rotation - 180 deg test on Fri Mar 11 03:17:04 2022 
+Start Time, End Time, Rotation angle (degrees), Rotational speed (degrees/sec) 
+
+Long Rotation - 180 deg test on Fri Mar 11 03:17:38 2022 
+Start Time, End Time, Rotation angle (degrees), Rotational speed (degrees/sec) 
+2022-03-08T16:09:11.345, 2022-03-08T16:10:25.349,2,2 
+The maximum slew speed is 3.47 deg/s 
+The average slew speed is 3.39 deg/s 
+
+Long Rotation - 180 deg test on Fri Mar 11 03:17:53 2022 
+Start Time, End Time, Rotation angle (degrees), Rotational speed (degrees/sec) 
+2022-03-08T16:09:11.345, 2022-03-08T16:10:25.349,2,2 
+The maximum slew speed is 3.47 deg/s 
+The average slew speed is 3.39 deg/s 
